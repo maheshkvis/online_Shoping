@@ -1,6 +1,6 @@
 <?php
 include "db.php";
-
+//This is just test
 session_start();
 
 #Login script is begin here
